@@ -305,3 +305,5 @@ $ git push origin master
 ```
 
 In couple of minutes, your website will be live https://pcf-hugo-workshop.cfapps.io
+
+trigger changes
